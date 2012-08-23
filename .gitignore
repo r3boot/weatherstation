@@ -1,0 +1,5 @@
+docs/*
+3rdparty/*
+*.o
+*.swp
+*.pyc
